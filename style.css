@@ -1,4 +1,12 @@
 body {
-color:blue;
+color:rgb(15, 99, 95);
  background:black;
+}
+
+.chamada{ 
+    background:rgb(22, 154, 139);
+ padding: lotoon 80px;
+ padding-top:80px;
+ display:flex;
+ justify-content:center;
 }
